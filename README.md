@@ -1,5 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalledCan&theme=ayu_mirage)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FalledCan&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FalledCan&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FalledCan&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FalledCan&theme=ayu_mirage&utcOffset=8)
 <!--
 **FalledCan/FalledCan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
